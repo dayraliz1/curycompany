@@ -6,7 +6,7 @@ Como a empresa realiza negócios entre restaurantes, entregadores e pessoas, mui
 
 Neste projeto irei mostrar todo raciocínio técnico que utilizei para analisar e gerar cada resultado.
 
-Métricas de crescimento Cury Company:
+Métricas de crescimento que serão analisadas:
 
 Visão Empresa:
 1. Quantidade de pedidos por dia.
